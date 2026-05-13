@@ -1,4 +1,4 @@
 # veerjaindemo
 this is my first git repository.
 <br>
-Author- this is me VEER JAIN
+Author- this is me VEER PAHARIA
